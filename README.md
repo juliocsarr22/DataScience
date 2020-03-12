@@ -1,9 +1,5 @@
 # IMD0905 - Data Science I - 2020.1
 
-- Lecture #01 
-	- Outline & course directions
-- Lecture #02
-	- Plenary Talk
 - Lecture #03
 	- Data Science Fundamentals
 	- Data Pipeline
